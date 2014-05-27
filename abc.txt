@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello haijdsdslkfdsjsdkl
+=======
+hello hai
+EWRWER
+>>>>>>> e5b7ddd487e7baa3512275dee3d736b4abc9fafc
